@@ -21,7 +21,7 @@ pip install numpy
 ## 💾 Installation 
 1. Click on "<>code" button
 
-[![paso-1.png](https://i.postimg.cc/LsmzWLjY/paso-1.png)](https://postimg.cc/Snt22XTk)
+[![paso-1.png](https://i.postimg.cc/qvkmhjLq/paso-1.png)](https://postimg.cc/0bBGhGh1)
 
 2. Click on "Download ZIP"
 
@@ -74,14 +74,11 @@ If you finish the game and everything is fine, you will get a victory screen, to
 
 [![fullscreen.gif](https://i.postimg.cc/R0MHdtHP/fullscreen.gif)](https://postimg.cc/dhx3tLnd)
 
-- If you want to change the size of the window, place yourself in a corner and accommodate it to your liking.
-
-[![resize.gif](https://i.postimg.cc/wv5xG4YL/resize.gif)](https://postimg.cc/KkzyKNz8)
-
 - To make the game more dynamic, all the elements on the screen have the hover effect, so you can easily know what you click.
 
 [![hover.gif](https://i.postimg.cc/RZjMVxMw/hover.gif)](https://postimg.cc/217p2JL5)
 
+- If you want to change the size of the window, place yourself in a corner and accommodate it to your liking.
 - Every action and event in the game has a sound effect.
 
 
