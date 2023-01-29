@@ -35,6 +35,7 @@ def main():
     WIDTH = screen_info.current_w 
     HEIGHT = screen_info.current_h 
     fullscreen = False  
+    
     #Config de la ventana
     design_width = 1280  #Ancho base para el que fue diseñado el juego
     design_height = 720  #Alto base para el que fue diseñado el juego
